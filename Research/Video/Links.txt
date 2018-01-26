@@ -1,0 +1,2 @@
+Youtube:
+	Stanford Seminar Computing with High-Dimensional Vectors -> https://www.youtube.com/watch?v=zUCoxhExe0o
