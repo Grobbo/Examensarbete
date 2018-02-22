@@ -1,11 +1,13 @@
 ### POSSIBILITIES WITH HD VECTOR COMPUTING ###
-	*** Catalogging/query on traits ***
-	*** Recognition with high probability ***
-	*** Fast trained AI (cases) ***
+	*** Fast trained AI (just data)***
 	*** Cassification ***
+	*** Noise tolerant ***
+	*** Represent many relations in single vector that can be queried with questions
 
-### IMPLEMETATION IDEAS ###
-	*** Recognition of images ***
-	*** Question answering ***
-	*** Error Correction ***	
-	*** Traficsigns recognition ***
+### IDEAS ###
+
+
+### CLASSIFICATION BUILD MANY TRAITS IN ONE VECOR THEN QUERY ###
+	*** possition? ***
+	*** color? ***
+	*** similarity in pictures? ***
